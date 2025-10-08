@@ -9,5 +9,5 @@
 """
 zs = int(input("Írj be egy számot: "))
 
-for i in range(11):
+for i in range(1,11):
     print(zs, "x", i,"=", i*zs)
